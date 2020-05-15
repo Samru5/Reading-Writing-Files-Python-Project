@@ -1,0 +1,4 @@
+man data 67
+resultset records
+res876
+fruitsList
